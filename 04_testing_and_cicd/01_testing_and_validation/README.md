@@ -16,6 +16,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <algorithm>
 ​
 /*----これらの関数を変更する必要はありません----*/
 ​
